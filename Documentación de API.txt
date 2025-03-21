@@ -1,0 +1,10 @@
+Documentación de API
+1-> se crea el entorno virtual
+2-> se activa el entorno virtual 
+Laura\Scripts\activate
+3-> se instala Flask 
+Pip install Flask 
+4-> Se crea la capeta donde estará alojado el proyecto
+5-> se crea el proyecto dentro de la carpeta 
+6-> se crean las líneas de código del proyecto en Python
+7-> se pega la url en postman en GET y se ejecuta
